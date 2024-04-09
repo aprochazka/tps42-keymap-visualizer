@@ -1,0 +1,15 @@
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/bin/Debug/net8.0/ubuntu
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/bin/Debug/net8.0/ubuntu.deps.json
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/bin/Debug/net8.0/ubuntu.runtimeconfig.json
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/bin/Debug/net8.0/ubuntu.dll
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/bin/Debug/net8.0/ubuntu.pdb
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/ubuntu.GeneratedMSBuildEditorConfig.editorconfig
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/ubuntu.AssemblyInfoInputs.cache
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/ubuntu.AssemblyInfo.cs
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/ubuntu.csproj.CoreCompileInputs.cache
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/ubuntu.sourcelink.json
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/ubuntu.dll
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/refint/ubuntu.dll
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/ubuntu.pdb
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/ubuntu.genruntimeconfig.cache
+/home/adam/repos/tps42-keymap-visualizer/ubuntu/obj/Debug/net8.0/ref/ubuntu.dll
